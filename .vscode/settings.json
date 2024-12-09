@@ -2,6 +2,7 @@
     "conventionalCommits.scopes": [
         "ATH",
         "AI",
-        "NPC"
+        "NPC",
+        "EndCondition"
     ]
 }
