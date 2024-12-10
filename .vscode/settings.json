@@ -3,6 +3,7 @@
         "ATH",
         "AI",
         "NPC",
-        "EndCondition"
+        "EndCondition",
+        "animation"
     ]
 }
